@@ -12,7 +12,7 @@ Built with Python (Flask) for AI and Laravel for the web app, OptCare enhances a
 <div align="center">
   <table>
     <tr>
-      <td><img src="/Documents/Images/HomePage1.png" width="300" alt="Home Page"></td>
+      <td><img src="/Documents/Demo Images/patient1.png" width="300" alt="Home Page"></td>
       <td><img src="/Documents/Images/HomePage2.png" width="300" alt="Admin Driver Login"></td>
       <td><img src="/Documents/Images/BookingPage.png" width="300" alt="Admin Dashboard"></td>
     </tr>
