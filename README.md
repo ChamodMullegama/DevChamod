@@ -2,15 +2,32 @@
 
 OptCare is an AI-powered web platform for automated retinal diagnosis using OCT scans. It detects four conditions (DME, CNV, Drusen, Normal) with deep learning and provides a detailed report. The system also integrates:
 
-Telemedicine – online ophthalmologist consultations
-
-E-commerce – eye care products
-
-Education – vision health awareness
+1. Telemedicine – online ophthalmologist consultations
+2. E-commerce – eye care products
+3. Education – vision health awareness
 
 Built with Python (Flask) for AI and Laravel for the web app, OptCare enhances accessibility in retinal healthcare.
 
-
+## Demo Images
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="/Documents/Images/HomePage1.png" width="300" alt="Home Page"></td>
+      <td><img src="/Documents/Images/HomePage2.png" width="300" alt="Admin Driver Login"></td>
+      <td><img src="/Documents/Images/BookingPage.png" width="300" alt="Admin Dashboard"></td>
+    </tr>
+    <tr>
+      <td><img src="/Documents/Images/AdminDasboard.png" width="300" alt="Driver Dashboard"></td>
+        <td><img src="/Documents/Images/AdminDashboard2.png" width="300" alt="Driver Dashboard"></td>
+        <td><img src="/Documents/Images/BookingAdmin.png" width="300" alt="Driver Dashboard"></td>
+    </tr>
+      <tr>
+      <td><img src="/Documents/Images/AdminDriverLoin.png" width="300" alt="Driver Dashboard"></td>
+        <td><img src="/Documents/Images/d1.png" width="300" alt="Driver Dashboard"></td>
+        <td><img src="/Documents/Images/d2.png" width="300" alt="Driver Dashboard"></td>
+    </tr>
+  </table>
+</div>
 ## Features
 1. Registration & Login
 2. Projects CRUD with sorting, filtering and pagination
@@ -29,8 +46,7 @@ Built with Python (Flask) for AI and Laravel for the web app, OptCare enhances a
 5. Execute `npm install`
 6. Set application key - `php artisan key:generate --ansi`
 7. Execute migrations and seed data - `php artisan migrate --seed`
-8. Start vite server - `npm run dev`
-9. Start Artisan server - `php artisan serve`
+8. Start Artisan server - `php artisan serve`
 
 
 
