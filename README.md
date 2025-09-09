@@ -23,6 +23,9 @@ OptCare is an AI-powered web platform that analyzes OCT scans using deep learnin
   </table>
 </div>
 
+
+
+  
 ## Technologies Used
 
 **Frameworks & Languages**
